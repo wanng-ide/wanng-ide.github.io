@@ -9,3 +9,7 @@
 修改 config.json 中的 url 配置
 
 修改 .github/workflows/main.yaml 中的第 29 行为你的仓库名称
+
+## 参考
+
+https://blog.febug.com/6f5c2eb4432249568f395e656ef212c2
